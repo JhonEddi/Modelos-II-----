@@ -1,4 +1,4 @@
-Chcp 65001
+Chcp 10075
 @ECHO off
 setlocal Prueba
 FOR %%f IN (*) DO ( set elemento=%%f&call :Cambiar )
